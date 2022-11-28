@@ -20,7 +20,7 @@
 <ins><div align="left">Frontend Developer 👨‍💻 🚀</div></ins>  
   
 
- I'm 23 and I live in Turkey.  I Build & Develop web apps my specializes in developing  🌐 `React Apps`.
+ I'm 23 and I live in Turkey.  I Build & Develop web apps my specializes in developing `React apps`🌐
  Focusing on the best user experience, I can optimize your applications and provide high-performance💫 
   
  I work on `JavaScript` technologies mostly. `I am focusing on developing the new features in Software Development.` 
