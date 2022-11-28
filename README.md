@@ -14,7 +14,7 @@
 </div>  
   
 
-## <div align="left">Hey👋 I'm Berkin Kınay</div>  
+## <div align="left">I'm Berkin Kınay</div>  
   
 
 <ins><div align="left">Frontend Developer 👨‍💻 🚀</div></ins>  
