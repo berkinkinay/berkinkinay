@@ -39,7 +39,7 @@
 - 💫 I’m learning `SQL, React Native,  Redux` nowadays.   
  
 
-- ⚡ Fun fact: I love watch movies/series, play video games.
+- ⚡ Fun fact: I love watching movies/series and playing video games.
 
 
 </td><td valign="top" width="50%">
