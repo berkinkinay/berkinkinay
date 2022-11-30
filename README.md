@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/berkin-k%C4%B1nay-04a137228/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/berkinkinay/" target="_blank">
+<a href="https://www.instagram.com/berkinkinay/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to" target="_blank">
