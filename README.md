@@ -33,13 +33,12 @@
 ##  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on my projects recently. (https://berkinkinay.dev/Portfolio)  
-  
+-  I’m currently working on [my projects recently](https://berkinkinay.dev/Portfolio)👨‍💻🚀  
 
-- 💫 I’m learning `SQL, React Native,  Redux` nowadays.   
+- I’m learning `SQL, React Native,  Redux` nowadays💫
  
 
-- ⚡ Fun fact: I love watching movies/series and playing video games.
+- Fun fact: I love watching movies/series and playing video games⚡
 
 
 </td><td valign="top" width="50%">
