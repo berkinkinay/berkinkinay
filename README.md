@@ -33,7 +33,7 @@
 ##  
 <table><tr><td valign="top" width="50%">
 
--  I’m currently working on [my projects recently](https://berkinkinay.dev/Portfolio)👨‍💻🚀  
+-  I’m currently working on my [projects ] recently (https://berkinkinay.dev/Portfolio)👨‍💻🚀  
 
 - I’m learning `SQL, React Native,  Redux` nowadays💫
  
