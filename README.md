@@ -40,6 +40,9 @@
 
 - Fun fact: I love watching movies/series and playing video games⚡
 
+- You can try to talk or question me anything about Computer Science.
+
+
 
 </td><td valign="top" width="50%">
 
