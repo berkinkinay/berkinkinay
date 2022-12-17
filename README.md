@@ -35,7 +35,7 @@
 
 -  I’m currently working on my [projects recently](https://berkinkinay.dev/Portfolio)👨‍💻🚀  
 
-- I’m learning `SQL, React Native,  Redux` nowadays💫
+- I’m learning `SQL, React Native` nowadays💫
  
 
 - Fun fact: I love watching movies/series and playing video games⚡
