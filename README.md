@@ -24,7 +24,7 @@
  focusing on the best user experience, I can optimize your applications and provide high-performance💫 
   
  I work on `JavaScript` technologies mostly. `I am focusing on developing the new features in Software Development.` 
- I'm also improving myself about `Backend` currently💻   
+ I'm also improving myself about `Backend` and `Server-side` development currently💻   
   
 
 <br/>  
