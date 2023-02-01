@@ -21,7 +21,7 @@
   
 
  I'm 23 and I live in Turkey.  I Build & Develop web apps my specializes in developing `React apps`🌐 but I can also use other 
- frameworks like Vue.js, Next.js etc.
+ frameworks like Vue.js, Next.js etc. and
  focusing on the best user experience, I can optimize your applications and provide high-performance💫 
   
  I work on `JavaScript` technologies mostly. `I am focusing on developing the new features in Software Development.` 
