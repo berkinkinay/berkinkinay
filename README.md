@@ -10,7 +10,7 @@
 <br/>  
 
 
-### <div align="left">What I like to do?</div>  
+### <div align="center">What I like to do?</div>  
 <table><tr><td valign="top" width="100%">
 
 - I’m currently working on my [projects recently](https://berkinkinay.dev/Portfolio)🚀  
