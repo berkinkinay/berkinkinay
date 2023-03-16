@@ -18,7 +18,7 @@
   
 
 <ins><div align="center">Frontend Developer 👨‍💻 🚀</div></ins>
- <div text="cenrer">
+ <div align="cenrer">
    I'm 23 and I live in Turkey.I'm a Frontend Developer who specializing in web applications development.
    I can optimize your applications and provide high-performance,
    I work on `JavaScript` technologies mostly. `I am focusing on developing the new features in Software Development.` 
