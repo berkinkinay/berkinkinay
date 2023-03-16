@@ -30,7 +30,7 @@
 
 
 ##  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 -  I’m currently working on my [projects recently](https://berkinkinay.dev/Portfolio)👨‍💻🚀  
 
@@ -40,10 +40,8 @@
 - Fun fact: I love watching movies/series and playing video games⚡
 
 - You can try to talk or question me anything about Computer Science.
-
-</td><td valign="top" width="50%">
-
-</td></tr></table>  
+  
+</table>  
 
 <br/>  
 
