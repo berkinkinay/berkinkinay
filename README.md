@@ -10,8 +10,8 @@
 <br/>  
 
 
-### <div align="center">What I like to do?</div>  
-<table><tr><td valign="top" width="100%">
+### <div align="left">What I like to do?</div>  
+<table><tr><td valign="top" width="100%" align="center">
 
 - I’m currently working on my [projects recently](https://berkinkinay.dev/Portfolio)🚀  
   
