@@ -11,7 +11,7 @@
 
 
 ### <div align="left">What I like to do?</div>  
-<table><tr><td valign="top" width="100%" align="center">
+<table><tr><td valign="top" width="100%">
 
 - I’m currently working on my [projects recently](https://berkinkinay.dev/Portfolio)🚀  
   
