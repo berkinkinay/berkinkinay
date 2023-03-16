@@ -17,7 +17,7 @@
   
 - I really love new techs and use these new stuff in my new porjects👨‍💻
 
-- I’m learning `SQL, React Native` nowadays💫
+- I’m learning `React Native` nowadays💫
  
 - Fun fact: I love watching movies/series and playing video games⚡
 
