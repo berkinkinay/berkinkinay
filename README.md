@@ -18,7 +18,7 @@
   
 ## <div align="left"> Frontend Developer 👨‍💻🚀</div>  
 <ins><div align="center">
-   I'm 23 and I live in Turkey.I'm a Frontend Developer who specializing in web applications development.
+   I'm 23 and I live in Turkey. I'm a Frontend Developer who specializing in web applications development.
    I can optimize your applications and provide high-performance,
    I work on `JavaScript` technologies mostly. `I am focusing on developing the new features in Software Development.` 
    I'm also improving myself about `Backend` and `Server-side` development currently💻 I generally use to prefer Redux and Vuex for state management when I build and    develop a project on React or Vue. I love writing user interfaces and design CSS architecture with clean code. 
