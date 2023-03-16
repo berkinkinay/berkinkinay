@@ -17,15 +17,13 @@
 ## <div align="left">I'm Berkin Kınay</div>  
   
 
-<ins><div align="left">Frontend Developer 👨‍💻 🚀</div></ins>  
+<ins><div align="center">Frontend Developer 👨‍💻 🚀</div></ins>
   
-
- I'm 23 and I live in Turkey.  I Build & Develop web apps my specializes in developing `React apps`🌐 but I can also use other 
- frameworks like Vue.js, Next.js etc. and
- focusing on the best user experience, I can optimize your applications and provide high-performance💫 
-  
+ I'm 23 and I live in Turkey.I'm a Frontend Developer who specializing in web applications development 🌐 
+ I'm focusing the best user experience, I can optimize your applications and provide high-performance 💫 
  I work on `JavaScript` technologies mostly. `I am focusing on developing the new features in Software Development.` 
- I'm also improving myself about `Backend` and `Server-side` development currently💻 I generally use to prefer Redux and Vuex for state management when I build and     develop a project on React or Vue. I love writing user interfaces and design CSS architecture with clean code. 
+ I'm also improving myself about `Backend` and `Server-side` development currently💻 I generally use to prefer Redux and Vuex for state management when I build and    develop a project on React or Vue. I love writing user interfaces and design CSS architecture with clean code. 
+ 
 <br/>  
 
 
