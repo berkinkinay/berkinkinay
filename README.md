@@ -48,7 +48,7 @@
 
 <br/>    
   
-### <div align="left">What I like to do?</div>  
+### <div align="left">Here's my links to contact me</div>  
   <div align="left">
     <a href="https://github.com/berkinkinay" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
