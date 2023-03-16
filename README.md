@@ -17,7 +17,7 @@
 ## <div align="left">I'm Berkin Kınay</div>  
   
 
-### <ins><div align="left"> Frontend Developer 👨‍💻🚀</div></ins>
+## <ins><div align="left"> Frontend Developer 👨‍💻🚀</div></ins>
 <ins><div align="center">
    I'm 23 and I live in Turkey.I'm a Frontend Developer who specializing in web applications development.
    I can optimize your applications and provide high-performance,
@@ -27,7 +27,7 @@
 <br/>  
 
 
-## <div align="left">What I like to do?</div>  
+### <div align="left">What I like to do?</div>  
 <table><tr><td valign="top" width="100%">
 
 - I’m currently working on my [projects recently](https://berkinkinay.dev/Portfolio)🚀  
@@ -45,7 +45,7 @@
 <br/>  
 
 
-## Languages and tools that I know
+### Languages and tools that I know
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" /></a>  
