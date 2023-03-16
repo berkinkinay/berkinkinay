@@ -34,7 +34,7 @@
 
 - I’m currently working on my [projects recently](https://berkinkinay.dev/Portfolio)🚀  
   
-- I really love nev techs and use this stuff in my new porjects👨‍💻
+- I really love new techs and use this stuff in my new porjects👨‍💻
 
 - I’m learning `SQL, React Native` nowadays💫
  
