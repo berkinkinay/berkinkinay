@@ -16,8 +16,6 @@
 - I’m currently working on my [projects recently](https://berkinkinay.dev/Portfolio)🚀  
   
 - I really love new techs and use these new stuff in my porjects👨‍💻
-
-- I’m learning `React Native` nowadays💫
  
 - Fun fact: I love watching movies/series and playing video games⚡
 
