@@ -5,7 +5,7 @@
    Hello, I'm 23 and I live in Turkey. I'm a Frontend Developer who specializing in web applications development.
    I can optimize your applications and provide high-performance,
    I work on `JavaScript` technologies mostly. `I'm focusing on developing the new features in Software Development.` 
-   I'm also improving myself about `Backend` and `Server-side` development with TypeScript and Node.js currently. I usually prefer to use Redux and Vuex for state management. I love writing user interfaces and creating designs on the objects for CSS architecture with clean code. 
+   I'm also improving myself about `Backend` and `Server-side` development with TypeScript and Node.js currently. I love writing user interfaces and creating designs on the objects for CSS architecture with clean code. 
 </div></ins>
 <br/>  
 
