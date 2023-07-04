@@ -28,12 +28,6 @@
 
 <br/>  
 
-<div align="center">
-  <a href="https://open.spotify.com/user/berkinkinay">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=1&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ###
 
 <div align="center">
