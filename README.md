@@ -15,7 +15,7 @@
 
 - I’m currently working on my [projects recently](https://berkinkinay.dev/Portfolio)🚀  
   
-- I really love new techs and use these new stuff in my porjects👨‍💻
+- I really love new techs and use these new stuff in my projects👨‍💻
  
 - Fun fact: I love watching movies/series and playing video games⚡
 
