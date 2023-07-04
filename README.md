@@ -18,6 +18,7 @@
   
 <br/>  
 
+## <div align="left"> Frontend Developer 👨‍💻💻</div>  
 <ins>
 <div align="center">
    Hello, I'm 23 and I live in Turkey. I'm a Frontend Developer who specializing in web applications development.
