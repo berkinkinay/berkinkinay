@@ -1,16 +1,21 @@
 <p align="left">Hey 👋, I'm Berkin</p>
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <a href="https://dev.to/berkinkinay" target="_blank">
+### <div align="left">Here're my links to contact me</div>  
+  <div align="left">
+    <a href="https://github.com/berkinkinay" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://www.linkedin.com/in/berkin-k%C4%B1nay-04a137228/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://www.instagram.com/berkinkinay/" target="_blank">
+    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://dev.to/berkinkinay" target="_blank">
     <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-  </a>  </div>
-
-<br/>    
+    </a>  
+  </div>
+<br/>  
 
 <p align="center">Hello, I'm 23 and I live in Turkey. I'm a Frontend Developer who specializing in web applications development.<br>   I can optimize your applications and provide high-performance,<br>   I work on `JavaScript` technologies mostly.<br>   I'm also improving myself about `Backend` and `Server-side` development with TypeScript and Node.js currently. I love writing user interfaces and working on CSS architecture with clean code. I prefer to use Redux to state management in the development process.</p>
 
