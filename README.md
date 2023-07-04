@@ -15,11 +15,18 @@
     <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
     </a>  
   </div>
+  
 <br/>  
 
-<p align="center">Hello, I'm 23 and I live in Turkey. I'm a Frontend Developer who specializing in web applications development.<br>   I can optimize your applications and provide high-performance,<br>   I work on `JavaScript` technologies mostly.<br>   I'm also improving myself about `Backend` and `Server-side` development with TypeScript and Node.js currently. I love writing user interfaces and working on CSS architecture with clean code. I prefer to use Redux to state management in the development process.</p>
-
-###
+<ins>
+<div align="center">
+   Hello, I'm 23 and I live in Turkey. I'm a Frontend Developer who specializing in web applications development.
+   I can optimize your applications and provide high-performance,
+   I work on `JavaScript` technologies mostly.
+   I'm also improving myself about `Backend` and `Server-side` development with TypeScript and Node.js currently. I love writing user interfaces and working on CSS architecture with clean code. I prefer to use Redux to state management in the development process.
+</div>
+</ins>
+<br/>  
 
 ### <div align="left">What I like to do?</div>  
 <table><tr><td valign="left" width="100%">
