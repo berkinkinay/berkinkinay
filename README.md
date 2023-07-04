@@ -41,12 +41,6 @@
 <br/>  
 
 ###
-
-<div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/29578451/250303110-cbd8fd7d-eca5-42ce-abb9-069f34e6547f.png"  />
-</div>
-
-###
 ## <div align="left"> My Tech Stack </div>  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -77,5 +71,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
+###
 
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/29578451/250303110-cbd8fd7d-eca5-42ce-abb9-069f34e6547f.png"  />
+</div>
+
+###
 ###
