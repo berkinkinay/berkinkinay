@@ -79,7 +79,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/berkinkinay/count.svg?"  />
-</div>
