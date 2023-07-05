@@ -14,32 +14,16 @@
     </a>  
   </div>
   
-## <div align="left">I'm Berkin Kınay</div>  
-  
+<br/>    
 ## <div align="left"> Frontend Developer 👨‍💻💻</div>  
-<ins>
 <div align="center">
    Hello, I'm 23 and I live in Turkey. I'm a Frontend Developer who specializing in web applications development.
    I can optimize your applications and provide high-performance,
-   I work on `JavaScript` technologies mostly.
-   I'm also improving myself about `Backend` and `Server-side` development with TypeScript and Node.js currently. I love writing user interfaces and working on CSS architecture with clean code. I prefer to use Redux to state management in the development process.
+   I work on JavaScript technologies mostly.
+   I'm also improving myself about Backend and Server-side development with TypeScript and Node.js currently. I love writing user interfaces and working on CSS architecture with clean code. I prefer to use Redux to           state management in the development process.
 </div>
-</ins>
 <br/>  
 
-
-### <div align="left">What I like to do?</div>  
-<table><tr><td valign="left" width="100%">
-
-- I’m currently working on my [projects recently](https://berkinkinay.dev/Portfolio)🚀  
-   
-- Fun fact: I love watching movies/series and playing video games⚡
-
-- You can try to talk or question me anything about Computer Science.
-  
-</table>  
-
-<br/>  
 
 ### <div align="left">What I like to do?</div>  
 <table><tr><td valign="left" width="100%">
