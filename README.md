@@ -15,13 +15,14 @@
   </div>
   
 <br/>    
-## <div align="left"> Frontend Developer 👨‍💻💻</div>  
+
 <div align="center">
    Hello, I'm 23 and I live in Turkey. I'm a Frontend Developer who specializing in web applications development.
    I can optimize your applications and provide high-performance,
    I work on JavaScript technologies mostly.
    I'm also improving myself about Backend and Server-side development with TypeScript and Node.js currently. I love writing user interfaces and working on CSS architecture with clean code. I prefer to use Redux to           state management in the development process.
 </div>
+
 <br/>  
 
 
