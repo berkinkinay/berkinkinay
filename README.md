@@ -25,7 +25,8 @@
    I'm also improving myself about `Backend` and `Server-side` development with TypeScript and Node.js currently. I love writing user interfaces and working on CSS architecture with clean code. I prefer to use Redux to state management in the development process.
 </div>
 </ins>
-<br/>  
+
+<br/>
 
 ### <div align="left">What I like to do?</div>  
 <table><tr><td valign="left" width="100%">
@@ -64,7 +65,6 @@
 </div>  
 
 <br/>    
-  
 
 <div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/29578451/250303110-cbd8fd7d-eca5-42ce-abb9-069f34e6547f.png"  />
