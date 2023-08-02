@@ -29,7 +29,7 @@
 ### <div align="left">What I like to do?</div>  
 <table><tr><td valign="left" width="100%">
 
-- I’m currently working on my [projects recently](https://berkinkinay.dev/Portfolio)🚀  
+- I’m currently working on my [projects recently](https://berkinkinay.dev/)🚀  
    
 - Fun fact: I love watching movies/series and playing video games⚡
 
