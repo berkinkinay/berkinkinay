@@ -44,29 +44,26 @@
 <br/>  
 <div align="center">
   <img src='https://img.icons8.com/color/48/000000/html-5--v1.png' />
-  <img src='https://img.icons8.com/color/48/000000/css3.png' />
-  <img src='https://img.icons8.com/color/48/000000/javascript--v1.png' />
-  <img src='https://img.icons8.com/color/48/000000/typescript.png' />
-  <img src='https://img.icons8.com/color/48/000000/react-native.png' />
-  <img src='https://img.icons8.com/color/48/000000/redux.png' />
-  <img src='https://img.icons8.com/color/48/000000/vue-js.png' />
-  <img src='https://profilinator.rishav.dev/skills-assets/sass-original.svg' />
-  <img src='https://profilinator.rishav.dev/skills-assets/styled-components.png' />
-  <img src='https://img.icons8.com/color/48/000000/tailwindcss.png' />
-  <img src='https://img.icons8.com/color/48/000000/bootstrap.png' />
-  <img src='https://img.icons8.com/color/48/000000/material-ui' />
-  <img src='https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg'style="margin: 10px" height="30" />
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png'style="margin: 10px" height="30" />
-  <img src='https://img.icons8.com/color/48/000000/nodejs.png'style="margin: 10px" height="30" />
+  <img src='https://img.icons8.com/color/48/000000/css3.png' style="margin: 10px" height="30" />
+  <img src='https://img.icons8.com/color/48/000000/javascript--v1.png' style="margin: 10px" height="30" />
+  <img src='https://img.icons8.com/color/48/000000/typescript.png' style="margin: 10px" height="30" />
+  <img src='https://img.icons8.com/color/48/000000/react-native.png' style="margin: 10px" height="30" />
+  <img src='https://img.icons8.com/color/48/000000/redux.png' style="margin: 10px" height="30" />
+  <img src='https://img.icons8.com/color/48/000000/vue-js.png' style="margin: 10px" height="30" />
+  <img src='https://profilinator.rishav.dev/skills-assets/sass-original.svg' style="margin: 10px" height="30" />
+  <img src='https://profilinator.rishav.dev/skills-assets/styled-components.png' style="margin: 10px" height="30" />
+  <img src='https://img.icons8.com/color/48/000000/tailwindcss.png' style="margin: 10px" height="30" />
+  <img src='https://img.icons8.com/color/48/000000/bootstrap.png' style="margin: 10px" height="30" />
+  <img src='https://img.icons8.com/color/48/000000/material-ui' style="margin: 10px" height="30" />
+  <img src='https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg' style="margin: 10px" height="30" />
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png' style="margin: 10px" height="30" />
+  <img src='https://img.icons8.com/color/48/000000/nodejs.png' style="margin: 10px" height="30" />
   <img src='https://element.eleme.io/favicon.ico'style="margin: 10px" height="30" />
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/546px-ESLint_logo.svg.png'style="margin: 10px" height="30" />
   <img src='https://jestjs.io/img/favicon/favicon.ico'style="margin: 10px" height="30" />
-  <img src='https://img.icons8.com/color/48/000000/git.png'style="margin: 10px" height="30" />
+  <img src='https://img.icons8.com/color/48/000000/git.png' style="margin: 10px" height="30" />
   <img src='https://img.icons8.com/fluent/48/000000/github.png' style="margin: 10px" height="30"/>
   <img src='https://img.icons8.com/color/48/000000/gitlab.png' style="margin: 10px" height="30"/>
-  <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="30" /></a>  
-  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="30" /></a>  
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="30" /></a>
 </div>  
 
 <br/>    
