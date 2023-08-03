@@ -40,7 +40,7 @@
 <br/>  
 
 ###
-## <div align="left"> My Tech Stack </div>  
+## <div align="left"> My Tech Stack and Tools </div>  
 <br/>  
 <div align="center">
   <img src='https://img.icons8.com/color/48/000000/html-5--v1.png' style="margin: 10px" height="30" />
