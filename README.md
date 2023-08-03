@@ -55,15 +55,15 @@
   <img src='https://img.icons8.com/color/48/000000/tailwindcss.png' />
   <img src='https://img.icons8.com/color/48/000000/bootstrap.png' />
   <img src='https://img.icons8.com/color/48/000000/material-ui' />
-  <img src='https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg' />
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png' />
-  <img src='https://img.icons8.com/color/48/000000/nodejs.png' />
-  <img src='https://element.eleme.io/favicon.ico' />
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/546px-ESLint_logo.svg.png' />
-  <img src='https://jestjs.io/img/favicon/favicon.ico' />
-  <img src='https://img.icons8.com/color/48/000000/git.png' />
-  <img src='https://img.icons8.com/fluent/48/000000/github.png' />
-  <img src='https://img.icons8.com/color/48/000000/gitlab.png' />
+  <img src='https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg'style="margin: 10px" height="30" />
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png'style="margin: 10px" height="30" />
+  <img src='https://img.icons8.com/color/48/000000/nodejs.png'style="margin: 10px" height="30" />
+  <img src='https://element.eleme.io/favicon.ico'style="margin: 10px" height="30" />
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/546px-ESLint_logo.svg.png'style="margin: 10px" height="30" />
+  <img src='https://jestjs.io/img/favicon/favicon.ico'style="margin: 10px" height="30" />
+  <img src='https://img.icons8.com/color/48/000000/git.png'style="margin: 10px" height="30" />
+  <img src='https://img.icons8.com/fluent/48/000000/github.png' style="margin: 10px" height="30"/>
+  <img src='https://img.icons8.com/color/48/000000/gitlab.png' style="margin: 10px" height="30"/>
   <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="30" /></a>  
   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="30" /></a>  
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="30" /></a>
