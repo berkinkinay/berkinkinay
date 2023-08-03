@@ -43,7 +43,7 @@
 ## <div align="left"> My Tech Stack </div>  
 <br/>  
 <div align="center">
-  <img src='https://jestjs.io/img/favicon/favicon.ico](https://img.icons8.com/color/48/000000/html-5--v1.png' />
+  <img src='https://img.icons8.com/color/48/000000/html-5--v1.png' />
   <img src='https://jestjs.io/img/favicon/favicon.ico' />
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" /></a>
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" /></a> 
