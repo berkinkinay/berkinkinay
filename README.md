@@ -43,7 +43,7 @@
 ## <div align="left"> My Tech Stack </div>  
 <br/>  
 <div align="center">
-  <img src='https://img.icons8.com/color/48/000000/html-5--v1.png' />
+  <img src='https://img.icons8.com/color/48/000000/html-5--v1.png' style="margin: 10px" height="30" />
   <img src='https://img.icons8.com/color/48/000000/css3.png' style="margin: 10px" height="30" />
   <img src='https://img.icons8.com/color/48/000000/javascript--v1.png' style="margin: 10px" height="30" />
   <img src='https://img.icons8.com/color/48/000000/typescript.png' style="margin: 10px" height="30" />
