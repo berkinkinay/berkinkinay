@@ -17,10 +17,10 @@
 <br/>    
 
 <div align="center">
-   Hello, I'm 23 and I live in Turkey. I'm a Frontend Developer who specializing in web applications development.
+   Hello, I am 23 and I live in İzmir, Turkey. I am a Front End Developer specializing in developing web applications.
    I can optimize your applications and provide high-performance,
-   I work on JavaScript technologies mostly.
-   I'm also improving myself about Backend and Server-side development with TypeScript and Node.js currently. I love writing user interfaces and working on CSS architecture with clean code. I prefer to use Redux to           state management in the development process.
+   I work on modern JavaScript library and frameworks such as React.js, Vue.js.
+   I'm also improving myself about Backend and Server-side development with TypeScript and Node.js currently. I love writing user interfaces and working on CSS architecture       with clean code. I prefer to use Redux to           state management in the development process.
 </div>
 
 <br/>  
